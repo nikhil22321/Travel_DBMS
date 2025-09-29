@@ -69,8 +69,7 @@ This project includes various functionalities related to managing user accounts,
 
 ## Contributors
 
-- Aditya Upadhyay
-- Dev Utkarsh
+-Nikhil (2022321)
 
 ## Special Thanks
 - Mukesh Mohaniya Sir
@@ -79,3 +78,4 @@ This project includes various functionalities related to managing user accounts,
 ## License
 
 This project is licensed Under IIITD.
+
